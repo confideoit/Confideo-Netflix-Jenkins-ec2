@@ -17,30 +17,43 @@ This project demonstrates how to build a complete **CI/CD pipeline** using Jenki
 - Fully automated build-test-deploy cycle.
 
 🛠️ Setup Instructions
+
 1️⃣ Jenkins Setup
 
 2️⃣ Tomcat Setup on Two Instances
+
 3️⃣ Jenkins Configuration
+
 4️⃣ Credentials & Plugins
+
 5️⃣Jenkins Pipeline Configuration
 
+
 🛠 Replace in Script
+
 -	Replace the GitHub URL with your own repo if needed:
 •	git url: 'https://github.com/YOUR_USERNAME/YOUR_REPO.git'
 -	Update `credentialsId` with your generated Jenkins credential ID
 -	Change Tomcat `url` to your own EC2 public IP
 
 📥 Clone / Fork Repositories
+
 1️⃣ Jenkins Project Repo:
+
   https://github.com/confideoit/Confideo-Netflix-Jenkins-ec2.git 
+  
 2️⃣ Jenkins & Tomcat Setup Scripts:
+
   https://github.com/confideoit/Confideo-All_Setup 
+  
 
 ⚠️ Notes
+
 -	Never allow all ports in a real production environment
 -	Always use IAM roles, SSH key security, and private IPs for internal traffic
 -	Jenkins and Tomcat credentials must be stored securely
 
 💼 Author
+
 Confideo IT Services
 Providing industry-aligned DevOps training and cloud deployment solutions.
