@@ -56,4 +56,5 @@ This project demonstrates how to build a complete **CI/CD pipeline** using Jenki
 💼 Author
 
 Confideo IT Services
+
 Providing industry-aligned DevOps training and cloud deployment solutions.
