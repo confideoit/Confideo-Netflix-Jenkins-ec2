@@ -18,6 +18,7 @@ This project demonstrates how to build a complete **CI/CD pipeline** using Jenki
 
 🛠️ Setup Instructions
 1️⃣ Jenkins Setup
+
 2️⃣ Tomcat Setup on Two Instances
 3️⃣ Jenkins Configuration
 4️⃣ Credentials & Plugins
