@@ -28,6 +28,7 @@ This project demonstrates how to build a complete **CI/CD pipeline** using Jenki
 
 5️⃣Jenkins Pipeline Configuration
 
+Detailed Setup Instruction in the PDF : https://github.com/confideoit/Confideo-Netflix-Jenkins-ec2/blob/main/NETFLIX-Jenkins.pdf 
 
 🛠 Replace in Script
 
